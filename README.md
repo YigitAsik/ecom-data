@@ -14,5 +14,5 @@ In the "order-cancellation-preds.ipynb", I start off by invoice-level prediction
 - I wrapped things into functions in general but there are still some parts that could have been functionalized.
 - Decorators can be used to log the changes in the dataframes (I ran with recurring print statements).
 
-TODO:
+*TODO:*
 - Add customer-level variables on top of invoice-level to see how much of a room there is to go.
