@@ -18,3 +18,4 @@ In the "order-cancellation-preds.ipynb", I start off by invoice-level prediction
 *TODO:*
 
 * ~Instead of using a two-stage tuning, where each base estimators hyperparameters tuned independent of StackClassifier, search for the best combination of base estimators' hyper-parameters and the StackingClassifier together.~
+* One can make use of *PAVA (pooling adjacent violators algorithm)* via isotonic regression (it is available under sklearn).
