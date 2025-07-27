@@ -1,7 +1,6 @@
-# E-Commerce Order Cancellation Prediction
+# E-Commerce Data
 
-You can find the data from the following Kaggle link:
-
+You can find the data and some explanation from the following Kaggle link:
 [E-Commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
 ### Order Cancellation Prediction
