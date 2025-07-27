@@ -14,3 +14,7 @@ In the "order-cancellation-preds.ipynb", I start off by invoice-level prediction
 - Regularization of final estimator or different final_estimator can be used.
 - I wrapped things into functions in general but there are still some parts that could have been functionalized.
 - Decorators can be used to log the changes in the dataframes (I ran with recurring print statements).
+
+*TODO:*
+
+* ~Instead of using a two-stage tuning, where each base estimators hyperparameters tuned independent of StackClassifier, search for the best combination of base estimators' hyper-parameters and the StackingClassifier together.~
